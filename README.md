@@ -59,11 +59,3 @@ While mnemonic phrases can be easier to remember than random passwords, they mig
 ## Disclaimer
 
 The Random Password Generator with Mnemonic Phrases script is provided for educational and personal use only. The authors do not assume any responsibility for the misuse or consequences resulting from the use of this tool.
-
-## License
-
-This script is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it according to the terms of the license.
-
----
-
-Please make sure to include the actual Python script (`password_generator.py`) and the word dictionary file (`word_dictionary.txt`) with the README file when sharing the tool with others. The README will help users understand how to set up and use the password generator with mnemonic phrases in Termux.
