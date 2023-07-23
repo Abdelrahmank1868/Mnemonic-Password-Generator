@@ -1,6 +1,6 @@
 # Random Password Generator with Mnemonic Phrases
 
-![Termux Logo](https://termux.com/files/usr/share/termux/images/termux-icon.png)
+![Termux Logo](https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg)
 
 ## Purpose
 
